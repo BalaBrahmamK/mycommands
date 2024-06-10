@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 4EBC-5778
-
- Directory of C:\Users\balak\Desktop\bala
-
-10-06-2024  20:19    <DIR>          .
-10-06-2024  20:14    <DIR>          ..
-10-06-2024  20:19                 0 balu.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  128,949,010,432 bytes free
+balalalla
